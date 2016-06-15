@@ -1,2 +1,9 @@
-# react_tutorial
-I had just been taught a React. I have no prior knowledge of any JavaScript. This is to record the course.
+# React Tutorial
+
+###setup
+#####On Mac Machine
+1. install [Homebrew](http://brew.sh/)
+2. Next steps required Terminal:
+3. React required Node `brew install node`
+4. Install React `npm install -g react-native-cli`
+5. developing...
