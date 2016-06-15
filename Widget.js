@@ -14,7 +14,6 @@ export default class Widget extends Component {
 	}
 }
 
-export default Widget
 
 
 
